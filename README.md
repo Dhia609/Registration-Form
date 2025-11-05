@@ -1,5 +1,4 @@
-This repository contains a fully frontend registration form demo. It is designed to look and feel like a real registration flow, but it currently does not connect to any real backend. All form submissions are simulated with fake JSON responses for demo purposes. This makes it completely safe to publish on GitHub or share for educational/demo purposes.
-
+This repository contains a fully frontend registration form demo. It is designed to look and feel like a real registration flow, but it currently does not connect to any real backend. All form submissions are simulated with fake JSON responses for demo purposes.
 ## Features
 
 * Moderne, responsive form design with CSS effects and gradient drops.
@@ -43,5 +42,6 @@ To make this form work with a real backend:
 * You can update the CSS in the HTML or in an external file to adjust the appearance.
 * Labels, placeholders, and messages can be modified to suit your needs.
 * When ready, replace the demo JS logic with your real backend endpoint.
+
 
 
